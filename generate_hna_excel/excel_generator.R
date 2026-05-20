@@ -1,10 +1,18 @@
-library(readr)
-library(tidyverse)
-library(data.table)
-library(openxlsx2)
-library(dplyr)
-library(janitor)
-library(lubridate)
+if (!requireNamespace("pacman", quietly = TRUE)) {
+  install.packages('pacman')
+}
+
+pacman::p_load(
+  readr,
+  tidyverse,
+  data.table,
+  openxlsx2,
+  dplyr,
+  janitor,
+  lubridate
+)
+
+
 
 
 #'==============================================================================
