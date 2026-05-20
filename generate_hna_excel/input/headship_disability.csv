@@ -1,0 +1,469 @@
+"geo","dguid","age","disability","value","rate"
+"Newfoundland and Labrador",10,"Total","Total population",423010,1
+"Newfoundland and Labrador",10,"Total","Total with disability",130690,0.308952507032931
+"Newfoundland and Labrador",10,"Total","Mild",48020,0.113519774946219
+"Newfoundland and Labrador",10,"Total","Moderate",26420,0.0624571523131841
+"Newfoundland and Labrador",10,"Total","Severe",24590,0.0581310134512186
+"Newfoundland and Labrador",10,"Total","Very severe",31650,0.0748209262192383
+"Newfoundland and Labrador",10,"15-24","Total population",50690,1
+"Newfoundland and Labrador",10,"15-24","Total with disability",12970,0.255869007693825
+"Newfoundland and Labrador",10,"15-24","Mild",6210,0.122509370684553
+"Newfoundland and Labrador",10,"15-24","Moderate",2600,0.0512921680804892
+"Newfoundland and Labrador",10,"15-24","Severe",2710,0.053462221345433
+"Newfoundland and Labrador",10,"15-24","Very severe",1450,0.0286052475833498
+"Newfoundland and Labrador",10,"25-64","Total population",264480,1
+"Newfoundland and Labrador",10,"25-64","Total with disability",75820,0.28667574107683
+"Newfoundland and Labrador",10,"25-64","Mild",30300,0.11456442831216
+"Newfoundland and Labrador",10,"25-64","Moderate",15010,0.0567528735632184
+"Newfoundland and Labrador",10,"25-64","Severe",12220,0.0462038717483364
+"Newfoundland and Labrador",10,"25-64","Very severe",18290,0.0691545674531155
+"Newfoundland and Labrador",10,"25-44","Total population",110330,1
+"Newfoundland and Labrador",10,"25-44","Total with disability",28020,0.25396537659748
+"Newfoundland and Labrador",10,"25-44","Mild",13670,0.123901024200127
+"Newfoundland and Labrador",10,"25-44","Moderate",6530,0.0591860781292486
+"Newfoundland and Labrador",10,"25-44","Severe",4200,0.0380676153358107
+"Newfoundland and Labrador",10,"25-44","Very severe",3620,0.032810658932294
+"Newfoundland and Labrador",10,"45-64","Total population",154150,1
+"Newfoundland and Labrador",10,"45-64","Total with disability",47810,0.310152448913396
+"Newfoundland and Labrador",10,"45-64","Mild",16640,0.107946805060006
+"Newfoundland and Labrador",10,"45-64","Moderate",8470,0.0549464807006163
+"Newfoundland and Labrador",10,"45-64","Severe",8020,0.0520272461887772
+"Newfoundland and Labrador",10,"45-64","Very severe",14680,0.0952319169639961
+"Newfoundland and Labrador",10,"65+","Total population",107850,1
+"Newfoundland and Labrador",10,"65+","Total with disability",41900,0.388502549837738
+"Newfoundland and Labrador",10,"65+","Mild",11510,0.106722299490032
+"Newfoundland and Labrador",10,"65+","Moderate",8810,0.0816875289754288
+"Newfoundland and Labrador",10,"65+","Severe",9660,0.0895688456189152
+"Newfoundland and Labrador",10,"65+","Very severe",11910,0.110431154381085
+"Prince Edward Island",11,"Total","Total population",124420,1
+"Prince Edward Island",11,"Total","Total with disability",39550,0.317874939720302
+"Prince Edward Island",11,"Total","Mild",15150,0.121764989551519
+"Prince Edward Island",11,"Total","Moderate",8030,0.064539463108825
+"Prince Edward Island",11,"Total","Severe",8480,0.0681562449766919
+"Prince Edward Island",11,"Total","Very severe",7900,0.0634946150136634
+"Prince Edward Island",11,"15-24","Total population",18470,1
+"Prince Edward Island",11,"15-24","Total with disability",3960,0.214401732539253
+"Prince Edward Island",11,"15-24","Mild",1990,0.10774228478614
+"Prince Edward Island",11,"15-24","Moderate",NA,NA
+"Prince Edward Island",11,"15-24","Severe",NA,NA
+"Prince Edward Island",11,"15-24","Very severe",NA,NA
+"Prince Edward Island",11,"25-64","Total population",76780,1
+"Prince Edward Island",11,"25-64","Total with disability",22380,0.29148215681167
+"Prince Edward Island",11,"25-64","Mild",9080,0.11825996353217
+"Prince Edward Island",11,"25-64","Moderate",4630,0.0603021620213597
+"Prince Edward Island",11,"25-64","Severe",4740,0.0617348267778067
+"Prince Edward Island",11,"25-64","Very severe",3930,0.0511852044803334
+"Prince Edward Island",11,"25-44","Total population",35160,1
+"Prince Edward Island",11,"25-44","Total with disability",8930,0.253981797497156
+"Prince Edward Island",11,"25-44","Mild",4010,0.114050056882821
+"Prince Edward Island",11,"25-44","Moderate",1680,0.0477815699658703
+"Prince Edward Island",11,"25-44","Severe",2270,0.0645620022753128
+"Prince Edward Island",11,"25-44","Very severe",NA,NA
+"Prince Edward Island",11,"45-64","Total population",41610,1
+"Prince Edward Island",11,"45-64","Total with disability",13450,0.323239605863975
+"Prince Edward Island",11,"45-64","Mild",5070,0.121845710165826
+"Prince Edward Island",11,"45-64","Moderate",2950,0.0708964191300168
+"Prince Edward Island",11,"45-64","Severe",2470,0.0593607305936073
+"Prince Edward Island",11,"45-64","Very severe",2960,0.0711367459745254
+"Prince Edward Island",11,"65+","Total population",29180,1
+"Prince Edward Island",11,"65+","Total with disability",13210,0.452707333790267
+"Prince Edward Island",11,"65+","Mild",4080,0.139821795750514
+"Prince Edward Island",11,"65+","Moderate",2880,0.0986977381768334
+"Prince Edward Island",11,"65+","Severe",2890,0.0990404386566141
+"Prince Edward Island",11,"65+","Very severe",3370,0.115490061686086
+"Nova Scotia",12,"Total","Total population",795470,1
+"Nova Scotia",12,"Total","Total with disability",301670,0.379234917721599
+"Nova Scotia",12,"Total","Mild",101770,0.127936942939394
+"Nova Scotia",12,"Total","Moderate",62700,0.0788213257570996
+"Nova Scotia",12,"Total","Severe",68860,0.0865651753051655
+"Nova Scotia",12,"Total","Very severe",68330,0.0858989025356079
+"Nova Scotia",12,"15-24","Total population",103130,1
+"Nova Scotia",12,"15-24","Total with disability",29700,0.287986037040628
+"Nova Scotia",12,"15-24","Mild",12090,0.117230679724619
+"Nova Scotia",12,"15-24","Moderate",7800,0.0756326965965287
+"Nova Scotia",12,"15-24","Severe",5980,0.057985067390672
+"Nova Scotia",12,"15-24","Very severe",3830,0.0371375933288083
+"Nova Scotia",12,"25-64","Total population",498640,1
+"Nova Scotia",12,"25-64","Total with disability",176610,0.35418337879031
+"Nova Scotia",12,"25-64","Mild",62090,0.124518690839082
+"Nova Scotia",12,"25-64","Moderate",37660,0.0755254291673352
+"Nova Scotia",12,"25-64","Severe",40090,0.0803986844216268
+"Nova Scotia",12,"25-64","Very severe",36770,0.0737405743622654
+"Nova Scotia",12,"25-44","Total population",228190,1
+"Nova Scotia",12,"25-44","Total with disability",69740,0.30562250755949
+"Nova Scotia",12,"25-44","Mild",31330,0.137297865813576
+"Nova Scotia",12,"25-44","Moderate",14990,0.0656908716420527
+"Nova Scotia",12,"25-44","Severe",15550,0.068144966913537
+"Nova Scotia",12,"25-44","Very severe",7870,0.0344888031903239
+"Nova Scotia",12,"45-64","Total population",270450,1
+"Nova Scotia",12,"45-64","Total with disability",106870,0.39515622111296
+"Nova Scotia",12,"45-64","Mild",30760,0.113736365317064
+"Nova Scotia",12,"45-64","Moderate",22670,0.0838232575337401
+"Nova Scotia",12,"45-64","Severe",24540,0.0907376594564615
+"Nova Scotia",12,"45-64","Very severe",28890,0.106821963394343
+"Nova Scotia",12,"65+","Total population",193700,1
+"Nova Scotia",12,"65+","Total with disability",95360,0.492307692307692
+"Nova Scotia",12,"65+","Mild",27590,0.142436757872999
+"Nova Scotia",12,"65+","Moderate",17240,0.0890036138358286
+"Nova Scotia",12,"65+","Severe",22790,0.117656169334022
+"Nova Scotia",12,"65+","Very severe",27740,0.143211151264843
+"New Brunswick",13,"Total","Total population",629310,1
+"New Brunswick",13,"Total","Total with disability",221900,0.352608412388171
+"New Brunswick",13,"Total","Mild",80610,0.128092672927492
+"New Brunswick",13,"Total","Moderate",43010,0.0683446949833945
+"New Brunswick",13,"Total","Severe",45130,0.071713463952583
+"New Brunswick",13,"Total","Very severe",53160,0.0844734709443676
+"New Brunswick",13,"15-24","Total population",78740,1
+"New Brunswick",13,"15-24","Total with disability",21060,0.26746253492507
+"New Brunswick",13,"15-24","Mild",8710,0.110617221234442
+"New Brunswick",13,"15-24","Moderate",4510,0.0572771145542291
+"New Brunswick",13,"15-24","Severe",4550,0.0577851155702311
+"New Brunswick",13,"15-24","Very severe",3280,0.0416560833121666
+"New Brunswick",13,"25-64","Total population",393590,1
+"New Brunswick",13,"25-64","Total with disability",128840,0.327345715084225
+"New Brunswick",13,"25-64","Mild",49300,0.125257247389415
+"New Brunswick",13,"25-64","Moderate",26830,0.0681673823013796
+"New Brunswick",13,"25-64","Severe",24870,0.0631875809852893
+"New Brunswick",13,"25-64","Very severe",27840,0.0707335044081405
+"New Brunswick",13,"25-44","Total population",173910,1
+"New Brunswick",13,"25-44","Total with disability",49330,0.283652463918119
+"New Brunswick",13,"25-44","Mild",23890,0.13736990397332
+"New Brunswick",13,"25-44","Moderate",10030,0.0576735092864125
+"New Brunswick",13,"25-44","Severe",8750,0.0503133804841585
+"New Brunswick",13,"25-44","Very severe",6670,0.0383531711804957
+"New Brunswick",13,"45-64","Total population",219680,1
+"New Brunswick",13,"45-64","Total with disability",79510,0.361935542607429
+"New Brunswick",13,"45-64","Mild",25410,0.115668244719592
+"New Brunswick",13,"45-64","Moderate",16810,0.0765203932993445
+"New Brunswick",13,"45-64","Severe",16120,0.0733794610342316
+"New Brunswick",13,"45-64","Very severe",21170,0.0963674435542607
+"New Brunswick",13,"65+","Total population",156980,1
+"New Brunswick",13,"65+","Total with disability",72000,0.458657153777551
+"New Brunswick",13,"65+","Mild",22590,0.143903681997707
+"New Brunswick",13,"65+","Moderate",11660,0.0742769779589757
+"New Brunswick",13,"65+","Severe",15720,0.100140145241432
+"New Brunswick",13,"65+","Very severe",22030,0.140336348579437
+"Quebec",24,"Total","Total population",6785220,1
+"Quebec",24,"Total","Total with disability",1422020,0.209576108070188
+"Quebec",24,"Total","Mild",623120,0.0918348999737665
+"Quebec",24,"Total","Moderate",274120,0.0403995743689961
+"Quebec",24,"Total","Severe",271750,0.0400502857681844
+"Quebec",24,"Total","Very severe",253020,0.0372898741676762
+"Quebec",24,"15-24","Total population",872340,1
+"Quebec",24,"15-24","Total with disability",143280,0.164247884998968
+"Quebec",24,"15-24","Mild",73790,0.0845885778480868
+"Quebec",24,"15-24","Moderate",31130,0.0356856271637206
+"Quebec",24,"15-24","Severe",24940,0.0285897700437903
+"Quebec",24,"15-24","Very severe",13420,0.0153839099433707
+"Quebec",24,"25-64","Total population",4384610,1
+"Quebec",24,"25-64","Total with disability",823030,0.18770882701084
+"Quebec",24,"25-64","Mild",403610,0.092051516554494
+"Quebec",24,"25-64","Moderate",146980,0.0335217955530823
+"Quebec",24,"25-64","Severe",147930,0.0337384624858311
+"Quebec",24,"25-64","Very severe",124510,0.0283970524174328
+"Quebec",24,"25-44","Total population",2150560,1
+"Quebec",24,"25-44","Total with disability",377910,0.175726322446247
+"Quebec",24,"25-44","Mild",214980,0.0999646603675322
+"Quebec",24,"25-44","Moderate",68270,0.0317452198497136
+"Quebec",24,"25-44","Severe",52860,0.0245796443716985
+"Quebec",24,"25-44","Very severe",41810,0.0194414478089428
+"Quebec",24,"45-64","Total population",2234050,1
+"Quebec",24,"45-64","Total with disability",445120,0.199243526331103
+"Quebec",24,"45-64","Mild",188630,0.0844340995053826
+"Quebec",24,"45-64","Moderate",78710,0.0352319777981692
+"Quebec",24,"45-64","Severe",95080,0.0425594771826951
+"Quebec",24,"45-64","Very severe",82700,0.0370179718448558
+"Quebec",24,"65+","Total population",1528270,1
+"Quebec",24,"65+","Total with disability",455710,0.298186838713055
+"Quebec",24,"65+","Mild",145720,0.0953496437147886
+"Quebec",24,"65+","Moderate",96010,0.062822668769262
+"Quebec",24,"65+","Severe",98880,0.0647006091855497
+"Quebec",24,"65+","Very severe",115100,0.0753139170434544
+"Ontario",35,"Total","Total population",11552580,1
+"Ontario",35,"Total","Total with disability",3235340,0.280053459919775
+"Ontario",35,"Total","Mild",1195630,0.10349463063662
+"Ontario",35,"Total","Moderate",619410,0.0536165947346826
+"Ontario",35,"Total","Severe",655760,0.0567630780310545
+"Ontario",35,"Total","Very severe",764540,0.0661791565174186
+"Ontario",35,"15-24","Total population",1669060,1
+"Ontario",35,"15-24","Total with disability",337100,0.20196997112147
+"Ontario",35,"15-24","Mild",160400,0.0961019975315447
+"Ontario",35,"15-24","Moderate",62680,0.0375540723521024
+"Ontario",35,"15-24","Severe",63720,0.0381771775730052
+"Ontario",35,"15-24","Very severe",50300,0.0301367236648173
+"Ontario",35,"25-64","Total population",7509430,1
+"Ontario",35,"25-64","Total with disability",1866980,0.248618070878882
+"Ontario",35,"25-64","Mild",740420,0.0985986952405176
+"Ontario",35,"25-64","Moderate",379700,0.0505630920056516
+"Ontario",35,"25-64","Severe",349790,0.0465800999543241
+"Ontario",35,"25-64","Very severe",397080,0.0528775153373825
+"Ontario",35,"25-44","Total population",3737340,1
+"Ontario",35,"25-44","Total with disability",769040,0.205772019671745
+"Ontario",35,"25-44","Mild",344720,0.092236724515297
+"Ontario",35,"25-44","Moderate",156190,0.041791755633686
+"Ontario",35,"25-44","Severe",147650,0.039506707979472
+"Ontario",35,"25-44","Very severe",120470,0.0322341558434609
+"Ontario",35,"45-64","Total population",3772090,1
+"Ontario",35,"45-64","Total with disability",1097930,0.291066756095427
+"Ontario",35,"45-64","Mild",395690,0.104899405899647
+"Ontario",35,"45-64","Moderate",223500,0.0592509722726658
+"Ontario",35,"45-64","Severe",202130,0.0535856779663264
+"Ontario",35,"45-64","Very severe",276610,0.0733306999567879
+"Ontario",35,"65+","Total population",2374090,1
+"Ontario",35,"65+","Total with disability",1031260,0.434381173418025
+"Ontario",35,"65+","Mild",294810,0.12417810613751
+"Ontario",35,"65+","Moderate",177030,0.074567518501826
+"Ontario",35,"65+","Severe",242260,0.102043309225851
+"Ontario",35,"65+","Very severe",317170,0.13359645169307
+"Manitoba",46,"Total","Total population",999840,1
+"Manitoba",46,"Total","Total with disability",291890,0.29193670987358
+"Manitoba",46,"Total","Mild",112270,0.112287966074572
+"Manitoba",46,"Total","Moderate",62750,0.0627600416066571
+"Manitoba",46,"Total","Severe",60220,0.0602296367418787
+"Manitoba",46,"Total","Very severe",56650,0.0566590654504721
+"Manitoba",46,"15-24","Total population",156770,1
+"Manitoba",46,"15-24","Total with disability",31830,0.203036295209543
+"Manitoba",46,"15-24","Mild",16060,0.102443069464821
+"Manitoba",46,"15-24","Moderate",6940,0.0442686738534158
+"Manitoba",46,"15-24","Severe",5010,0.0319576449575812
+"Manitoba",46,"15-24","Very severe",3830,0.0244306946482108
+"Manitoba",46,"25-64","Total population",644830,1
+"Manitoba",46,"25-64","Total with disability",165930,0.257323635686925
+"Manitoba",46,"25-64","Mild",67520,0.104709768466107
+"Manitoba",46,"25-64","Moderate",36430,0.0564955104446133
+"Manitoba",46,"25-64","Severe",33670,0.0522153125630011
+"Manitoba",46,"25-64","Very severe",28310,0.0439030442132035
+"Manitoba",46,"25-44","Total population",333340,1
+"Manitoba",46,"25-44","Total with disability",67700,0.203095938081238
+"Manitoba",46,"25-44","Mild",31420,0.0942581148377032
+"Manitoba",46,"25-44","Moderate",14950,0.0448491030179396
+"Manitoba",46,"25-44","Severe",13710,0.0411291774164517
+"Manitoba",46,"25-44","Very severe",7620,0.0228595428091438
+"Manitoba",46,"45-64","Total population",311480,1
+"Manitoba",46,"45-64","Total with disability",98230,0.315365352510595
+"Manitoba",46,"45-64","Mild",36100,0.11589829202517
+"Manitoba",46,"45-64","Moderate",21470,0.0689289842044433
+"Manitoba",46,"45-64","Severe",19960,0.0640811609092077
+"Manitoba",46,"45-64","Very severe",20690,0.0664248105817388
+"Manitoba",46,"65+","Total population",198250,1
+"Manitoba",46,"65+","Total with disability",94130,0.474804539722573
+"Manitoba",46,"65+","Mild",28690,0.144716267339218
+"Manitoba",46,"65+","Moderate",19380,0.0977553593947037
+"Manitoba",46,"65+","Severe",21540,0.108650693568726
+"Manitoba",46,"65+","Very severe",24510,0.123631778058008
+"Saskatchewan",47,"Total","Total population",830690,1
+"Saskatchewan",47,"Total","Total with disability",247800,0.298306227353164
+"Saskatchewan",47,"Total","Mild",101140,0.121754204336154
+"Saskatchewan",47,"Total","Moderate",50510,0.0608048730573379
+"Saskatchewan",47,"Total","Severe",49450,0.0595288254342775
+"Saskatchewan",47,"Total","Very severe",46690,0.0562062863402713
+"Saskatchewan",47,"15-24","Total population",122290,1
+"Saskatchewan",47,"15-24","Total with disability",26130,0.213672418022733
+"Saskatchewan",47,"15-24","Mild",13840,0.113173603728841
+"Saskatchewan",47,"15-24","Moderate",4770,0.0390056423256194
+"Saskatchewan",47,"15-24","Severe",4570,0.0373701856243356
+"Saskatchewan",47,"15-24","Very severe",2950,0.0241229863439365
+"Saskatchewan",47,"25-64","Total population",538570,1
+"Saskatchewan",47,"25-64","Total with disability",145670,0.270475518502702
+"Saskatchewan",47,"25-64","Mild",64500,0.119761590879551
+"Saskatchewan",47,"25-64","Moderate",29800,0.0553317117552036
+"Saskatchewan",47,"25-64","Severe",27860,0.0517295801845628
+"Saskatchewan",47,"25-64","Very severe",23510,0.0436526356833838
+"Saskatchewan",47,"25-44","Total population",280330,1
+"Saskatchewan",47,"25-44","Total with disability",65150,0.23240466592944
+"Saskatchewan",47,"25-44","Mild",34690,0.123747012449613
+"Saskatchewan",47,"25-44","Moderate",11780,0.0420219027574644
+"Saskatchewan",47,"25-44","Severe",11100,0.039596190204402
+"Saskatchewan",47,"25-44","Very severe",7590,0.0270752327613884
+"Saskatchewan",47,"45-64","Total population",258240,1
+"Saskatchewan",47,"45-64","Total with disability",80520,0.311802973977695
+"Saskatchewan",47,"45-64","Mild",29810,0.115435254027261
+"Saskatchewan",47,"45-64","Moderate",18020,0.0697800495662949
+"Saskatchewan",47,"45-64","Severe",16770,0.0649395910780669
+"Saskatchewan",47,"45-64","Very severe",15920,0.0616480793060719
+"Saskatchewan",47,"65+","Total population",169830,1
+"Saskatchewan",47,"65+","Total with disability",76000,0.447506329859271
+"Saskatchewan",47,"65+","Mild",22800,0.134251898957781
+"Saskatchewan",47,"65+","Moderate",15940,0.0938585644467997
+"Saskatchewan",47,"65+","Severe",17020,0.100217864923747
+"Saskatchewan",47,"65+","Very severe",20230,0.119119119119119
+"Alberta",48,"Total","Total population",3294550,1
+"Alberta",48,"Total","Total with disability",906100,0.275029973744517
+"Alberta",48,"Total","Mild",377590,0.114610493087068
+"Alberta",48,"Total","Moderate",176440,0.0535551137484634
+"Alberta",48,"Total","Severe",178170,0.0540802233992503
+"Alberta",48,"Total","Very severe",173910,0.0527871788256363
+"Alberta",48,"15-24","Total population",480780,1
+"Alberta",48,"15-24","Total with disability",110050,0.228898872665252
+"Alberta",48,"15-24","Mild",53420,0.111111111111111
+"Alberta",48,"15-24","Moderate",20290,0.0422022546694954
+"Alberta",48,"15-24","Severe",20190,0.041994259328591
+"Alberta",48,"15-24","Very severe",16160,0.0336120470901452
+"Alberta",48,"25-64","Total population",2263250,1
+"Alberta",48,"25-64","Total with disability",550800,0.243366839721639
+"Alberta",48,"25-64","Mild",242810,0.107283773334806
+"Alberta",48,"25-64","Moderate",106240,0.0469413454103612
+"Alberta",48,"25-64","Severe",105940,0.0468087926654148
+"Alberta",48,"25-64","Very severe",95810,0.0423329283110571
+"Alberta",48,"25-44","Total population",1210070,1
+"Alberta",48,"25-44","Total with disability",243480,0.201211500161148
+"Alberta",48,"25-44","Mild",127030,0.104977398001768
+"Alberta",48,"25-44","Moderate",46600,0.038510168833208
+"Alberta",48,"25-44","Severe",45390,0.0375102266811011
+"Alberta",48,"25-44","Very severe",24450,0.020205442660342
+"Alberta",48,"45-64","Total population",1053180,1
+"Alberta",48,"45-64","Total with disability",307320,0.291801971173019
+"Alberta",48,"45-64","Mild",115780,0.10993372452952
+"Alberta",48,"45-64","Moderate",59630,0.0566190015002184
+"Alberta",48,"45-64","Severe",60550,0.0574925463833343
+"Alberta",48,"45-64","Very severe",71360,0.0677566987599461
+"Alberta",48,"65+","Total population",550520,1
+"Alberta",48,"65+","Total with disability",245260,0.445506066991208
+"Alberta",48,"65+","Mild",81360,0.147787546319843
+"Alberta",48,"65+","Moderate",49920,0.0906779045266294
+"Alberta",48,"65+","Severe",52050,0.0945469737702536
+"Alberta",48,"65+","Very severe",61940,0.112511807018819
+"British Columbia",59,"Total","Total population",4051810,1
+"British Columbia",59,"Total","Total with disability",1157610,0.28570194555026
+"British Columbia",59,"Total","Mild",449650,0.110975095080964
+"British Columbia",59,"Total","Moderate",254360,0.0627768824303213
+"British Columbia",59,"Total","Severe",230480,0.0568832200917615
+"British Columbia",59,"Total","Very severe",223120,0.0550667479472137
+"British Columbia",59,"15-24","Total population",530080,1
+"British Columbia",59,"15-24","Total with disability",104620,0.197366435255056
+"British Columbia",59,"15-24","Mild",46140,0.0870434651373378
+"British Columbia",59,"15-24","Moderate",22690,0.0428048596438273
+"British Columbia",59,"15-24","Severe",22400,0.0422577724117114
+"British Columbia",59,"15-24","Very severe",13390,0.0252603380621793
+"British Columbia",59,"25-64","Total population",2625420,1
+"British Columbia",59,"25-64","Total with disability",669050,0.254835416809501
+"British Columbia",59,"25-64","Mild",275720,0.105019387374211
+"British Columbia",59,"25-64","Moderate",145960,0.0555949143375155
+"British Columbia",59,"25-64","Severe",129800,0.049439708694228
+"British Columbia",59,"25-64","Very severe",117570,0.0447814064035469
+"British Columbia",59,"25-44","Total population",1325120,1
+"British Columbia",59,"25-44","Total with disability",285770,0.215655940594059
+"British Columbia",59,"25-44","Mild",128810,0.0972062907510263
+"British Columbia",59,"25-44","Moderate",59110,0.0446072808500362
+"British Columbia",59,"25-44","Severe",51210,0.0386455566288336
+"British Columbia",59,"25-44","Very severe",46630,0.0351892658778073
+"British Columbia",59,"45-64","Total population",1300300,1
+"British Columbia",59,"45-64","Total with disability",383280,0.294762747058371
+"British Columbia",59,"45-64","Mild",146910,0.11298161962624
+"British Columbia",59,"45-64","Moderate",86850,0.0667922787049142
+"British Columbia",59,"45-64","Severe",78590,0.060439898484965
+"British Columbia",59,"45-64","Very severe",70940,0.0545566407752057
+"British Columbia",59,"65+","Total population",896310,1
+"British Columbia",59,"65+","Total with disability",383940,0.428356260668742
+"British Columbia",59,"65+","Mild",127790,0.14257343999286
+"British Columbia",59,"65+","Moderate",85710,0.0956253974629313
+"British Columbia",59,"65+","Severe",78280,0.0873358547823856
+"British Columbia",59,"65+","Very severe",92160,0.102821568430565
+"Yukon",60,"Total","Total population",32350,1
+"Yukon",60,"Total","Total with disability",10170,0.314374034003091
+"Yukon",60,"Total","Mild",4560,0.140958268933539
+"Yukon",60,"Total","Moderate",2060,0.0636785162287481
+"Yukon",60,"Total","Severe",2080,0.0642967542503864
+"Yukon",60,"Total","Very severe",1480,0.0457496136012365
+"Yukon",60,"15-24","Total population",4100,1
+"Yukon",60,"15-24","Total with disability",NA,NA
+"Yukon",60,"15-24","Mild",NA,NA
+"Yukon",60,"15-24","Moderate",NA,NA
+"Yukon",60,"15-24","Severe",NA,NA
+"Yukon",60,"15-24","Very severe",NA,NA
+"Yukon",60,"25-64","Total population",22590,1
+"Yukon",60,"25-64","Total with disability",6440,0.285081894643648
+"Yukon",60,"25-64","Mild",2890,0.127932713590084
+"Yukon",60,"25-64","Moderate",1270,0.0562195661797255
+"Yukon",60,"25-64","Severe",1460,0.064630367419212
+"Yukon",60,"25-64","Very severe",NA,NA
+"Yukon",60,"25-44","Total population",12170,1
+"Yukon",60,"25-44","Total with disability",2780,0.228430566967954
+"Yukon",60,"25-44","Mild",1510,0.124075595727198
+"Yukon",60,"25-44","Moderate",NA,NA
+"Yukon",60,"25-44","Severe",NA,NA
+"Yukon",60,"25-44","Very severe",NA,NA
+"Yukon",60,"45-64","Total population",10420,1
+"Yukon",60,"45-64","Total with disability",3660,0.351247600767754
+"Yukon",60,"45-64","Mild",1370,0.13147792706334
+"Yukon",60,"45-64","Moderate",NA,NA
+"Yukon",60,"45-64","Severe",NA,NA
+"Yukon",60,"45-64","Very severe",NA,NA
+"Yukon",60,"65+","Total population",5660,1
+"Yukon",60,"65+","Total with disability",2680,0.473498233215548
+"Yukon",60,"65+","Mild",1020,0.180212014134276
+"Yukon",60,"65+","Moderate",NA,NA
+"Yukon",60,"65+","Severe",NA,NA
+"Yukon",60,"65+","Very severe",NA,NA
+"Northwest Territories",61,"Total","Total population",31260,1
+"Northwest Territories",61,"Total","Total with disability",8030,0.256877799104287
+"Northwest Territories",61,"Total","Mild",3190,0.102047344849648
+"Northwest Territories",61,"Total","Moderate",2020,0.0646193218170186
+"Northwest Territories",61,"Total","Severe",1630,0.0521433141394754
+"Northwest Territories",61,"Total","Very severe",1180,0.0377479206653871
+"Northwest Territories",61,"15-24","Total population",4870,1
+"Northwest Territories",61,"15-24","Total with disability",NA,NA
+"Northwest Territories",61,"15-24","Mild",NA,NA
+"Northwest Territories",61,"15-24","Moderate",NA,NA
+"Northwest Territories",61,"15-24","Severe",NA,NA
+"Northwest Territories",61,"15-24","Very severe",NA,NA
+"Northwest Territories",61,"25-64","Total population",22670,1
+"Northwest Territories",61,"25-64","Total with disability",5570,0.245699161887958
+"Northwest Territories",61,"25-64","Mild",2320,0.102337891486546
+"Northwest Territories",61,"25-64","Moderate",1290,0.0569033965593295
+"Northwest Territories",61,"25-64","Severe",1120,0.0494044993383326
+"Northwest Territories",61,"25-64","Very severe",NA,NA
+"Northwest Territories",61,"25-44","Total population",12310,1
+"Northwest Territories",61,"25-44","Total with disability",2260,0.183590576766856
+"Northwest Territories",61,"25-44","Mild",1110,0.0901705930138099
+"Northwest Territories",61,"25-44","Moderate",NA,NA
+"Northwest Territories",61,"25-44","Severe",NA,NA
+"Northwest Territories",61,"25-44","Very severe",NA,NA
+"Northwest Territories",61,"45-64","Total population",10350,1
+"Northwest Territories",61,"45-64","Total with disability",3310,0.319806763285024
+"Northwest Territories",61,"45-64","Mild",1210,0.116908212560386
+"Northwest Territories",61,"45-64","Moderate",NA,NA
+"Northwest Territories",61,"45-64","Severe",NA,NA
+"Northwest Territories",61,"45-64","Very severe",NA,NA
+"Northwest Territories",61,"65+","Total population",3720,1
+"Northwest Territories",61,"65+","Total with disability",1670,0.448924731182796
+"Northwest Territories",61,"65+","Mild",NA,NA
+"Northwest Territories",61,"65+","Moderate",NA,NA
+"Northwest Territories",61,"65+","Severe",NA,NA
+"Northwest Territories",61,"65+","Very severe",NA,NA
+"Nunavut",62,"Total","Total population",24090,1
+"Nunavut",62,"Total","Total with disability",4640,0.19261104192611
+"Nunavut",62,"Total","Mild",2090,0.0867579908675799
+"Nunavut",62,"Total","Moderate",1030,0.0427563304275633
+"Nunavut",62,"Total","Severe",830,0.0344541303445413
+"Nunavut",62,"Total","Very severe",690,0.0286425902864259
+"Nunavut",62,"15-24","Total population",5830,1
+"Nunavut",62,"15-24","Total with disability",NA,NA
+"Nunavut",62,"15-24","Mild",NA,NA
+"Nunavut",62,"15-24","Moderate",NA,NA
+"Nunavut",62,"15-24","Severe",NA,NA
+"Nunavut",62,"15-24","Very severe",NA,NA
+"Nunavut",62,"25-64","Total population",16820,1
+"Nunavut",62,"25-64","Total with disability",3480,0.206896551724138
+"Nunavut",62,"25-64","Mild",1640,0.0975029726516052
+"Nunavut",62,"25-64","Moderate",770,0.0457788347205707
+"Nunavut",62,"25-64","Severe",570,0.0338882282996433
+"Nunavut",62,"25-64","Very severe",NA,NA
+"Nunavut",62,"25-44","Total population",10280,1
+"Nunavut",62,"25-44","Total with disability",1490,0.144941634241245
+"Nunavut",62,"25-44","Mild",880,0.0856031128404669
+"Nunavut",62,"25-44","Moderate",NA,NA
+"Nunavut",62,"25-44","Severe",NA,NA
+"Nunavut",62,"25-44","Very severe",NA,NA
+"Nunavut",62,"45-64","Total population",6540,1
+"Nunavut",62,"45-64","Total with disability",2000,0.305810397553517
+"Nunavut",62,"45-64","Mild",760,0.116207951070336
+"Nunavut",62,"45-64","Moderate",530,0.081039755351682
+"Nunavut",62,"45-64","Severe",NA,NA
+"Nunavut",62,"45-64","Very severe",NA,NA
+"Nunavut",62,"65+","Total population",1440,1
+"Nunavut",62,"65+","Total with disability",640,0.444444444444444
+"Nunavut",62,"65+","Mild",NA,NA
+"Nunavut",62,"65+","Moderate",NA,NA
+"Nunavut",62,"65+","Severe",NA,NA
+"Nunavut",62,"65+","Very severe",NA,NA

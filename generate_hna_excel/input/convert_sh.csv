@@ -1,0 +1,21 @@
+shelter,desc_sh
+1,Total private households
+2,HH income < 21% of AMHI
+3,HH income 21% to 50% of AMHI
+4,HH income 51% to 80% of AMHI
+5,HH income 81% to 120% of AMHI
+6,HH income 121%+ of AMHI
+7,Total private households
+8,HH income <31% of AMHI
+9,HH income 31% to 60% of AMHI
+10,HH income 61%+ of AMHI
+11,Total private households
+12,Shelter cost <0.6% of AMHI
+13,Shelter cost 0.6% to 1.25% of AMHI
+14,Shelter cost 1.26% to 2% of AMHI
+15,Shelter cost 2.1% to 3% of AMHI
+16,Shelter cost 3.1%+ of AMHI
+17,Total private households
+18,Shelter cost <0.76% of AMHI
+19,Shelter cost 0.76% to 1.5% of AMHI
+20,Shelter 1.6%+ of AMHI

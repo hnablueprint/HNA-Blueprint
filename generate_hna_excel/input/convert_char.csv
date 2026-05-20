@@ -1,0 +1,66 @@
+characteristics,desc_char
+1,Total private households
+2,Activity limitation (1+ person)
+3,Total private households
+4,Activity limitation (1+ person) health issues
+5,Total private households
+6,Census-family households
+7,One-census-family w/o additional
+8,One couple census family w/o additional
+9,One couple w/o children or additional
+10,One couple w/ children or additional
+11,Lone parent w/o additional
+12,One-census-family w additional
+13,One couple census family w/ additional
+14,One couple w/o children and w/ additional
+15,One couple w/ children and w/ additional
+16,Lone parent w/ additional
+17,Multiple-census-family
+18,Non-census-family
+19,Non-census: single person
+20,Non-census: 2+ person
+21,Total private households
+22,Indigenous
+23,Total private households
+24,Visible minority
+25,Total private households
+26,PHM: men+
+27,PHM: women+
+28,Total private households
+29,PHM: Indigenous
+30,Total private households
+31,PHM: visible minority
+32,PHM: South Asian
+33,PHM: Chinese 
+34,PHM: Black 
+35,PHM: Filipino 
+36,PHM: Latin American 
+37,PHM: Arab 
+38,PHM: Southeast Asian 
+39,PHM: West Asian 
+40,PHM: Korean 
+41,PHM: Japanese 
+42,"PHM: Visible minority, n.i.e. "
+43,PHM: Multiple visible minorities 
+44,PHM: Not a visible minority 
+45,Total private households
+46,PHM: immigrant
+47,PHM: recent immigrant
+48,Total private households
+49,PHM: immigrant between 1980 and 2021
+50,PHM: refugee admission
+51,Total private households
+52,PHM: refugee admission and recent immigrant
+53,Total private households
+54,PHM: female lone parent
+55,Total private households
+56,PHM: <25 years
+57,PHM: 15 to 19 years
+58,PHM: 20 to 24 years
+59,PHM: 65+ years
+60,PHM: 65 to 84 years
+61,PHM: 85+ years
+62,Total private households
+63,Household w/ transgender or non binary persons
+64,Household w/ transgender person
+65,Households w/ non binary persons

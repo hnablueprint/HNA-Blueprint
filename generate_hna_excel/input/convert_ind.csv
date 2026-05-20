@@ -1,0 +1,13 @@
+chn,desc_chn
+1,Total private households
+2,Examined CHN
+3,In CHN
+4,CHN: below one standard
+5,CHN: below affordability standard only
+6,CHN: below adequacy standard only
+7,CHN: below suitability standard only
+8,CHN: below 2+ standards
+9,CHN: below affordability and suitability
+10,CHN: below affordability and adequacy
+11,CHN: below suitability and adequacy
+12,"CHN: below affordability, suitability, and adequacy"
